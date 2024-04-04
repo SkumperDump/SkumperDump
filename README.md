@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SkumperDump
 - 👀 I’m interested in games and stuff
-- 🌱 I’m currently learning unreal engine
-- 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me hmmm
+- 🌱 I’m currently learning Unreal Engine
+- 💞️ I’m looking to collaborate on games and stuff
+- 📫 Reach me at philipswallace1@gmail.com
 
 <!---
 SkumperDump/SkumperDump is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
